@@ -9,6 +9,10 @@
     font-family: "Poppins", sans-serif;
 }
 
+html, body {
+  font-family: "Poppins", sans-serif;
+}
+
 :root{
     --bg-color: #ababab;
     --second-bg-color:rgb(231, 159, 167);
