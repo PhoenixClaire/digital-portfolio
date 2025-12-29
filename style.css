@@ -250,6 +250,7 @@ h2{
     cursor: pointer;
     box-shadow: 0 0 5px var(--main-color);
     transition: 0.3s ease;
+    height: 650px;
 }
 
 .project-card:hover{
